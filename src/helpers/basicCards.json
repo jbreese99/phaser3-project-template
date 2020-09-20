@@ -1,0 +1,53 @@
+{
+  "basic": {
+    "glory": {
+      "class": "martial",
+      "cost": 0,
+      "sprite": "link/to/sprite",
+      "quantity": 16,
+      "damage": {
+        "black": 1,
+        "blue": 0,
+        "green": 0,
+        "red": 0
+      }
+    },
+    "cantrip": {
+      "class": "arcane",
+      "cost": 0,
+      "sprite": "link/to/sprite",
+      "quantity": 16,
+      "damage": {
+        "black": 0,
+        "blue": 1,
+        "green": 0,
+        "red": 0
+      }
+    },
+    "grace": {
+      "class": "devotion",
+      "cost": 0,
+      "sprite": "link/to/sprite",
+      "quantity": 16,
+      "damage": {
+        "black": 0,
+        "blue": 0,
+        "green": 1,
+        "red": 0
+      }
+    }, 
+    "stealth": {
+      "class": "deception",
+      "cost": 0,
+      "sprite": "link/to/sprite",
+      "quantity": 16,
+      "damage": {
+        "black": 0,
+        "blue": 0,
+        "green": 0,
+        "red": 1
+      }
+    } 
+  }
+
+}
